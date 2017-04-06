@@ -1,6 +1,6 @@
 {
  "kind": "discovery#restDescription",
- "etag": "\"ODRTh3xaRR64wpeXJSlF33HMN-0/kBLf6sYn8VCXUna9lUrwlxRnLVE\"",
+ "etag": "\"ODRTh3xaRR64wpeXJSlF33HMN-0/D0zrdQ0xFds5BOGakUQBSAPWyzI\"",
  "discoveryVersion": "v1",
  "id": "myApi:v1",
  "name": "myApi",
@@ -93,8 +93,8 @@
   }
  },
  "methods": {
-  "get_joke_bean": {
-   "id": "myApi.get_joke_bean",
+  "getJokeBean": {
+   "id": "myApi.getJokeBean",
    "path": "mybean",
    "httpMethod": "GET",
    "response": {
